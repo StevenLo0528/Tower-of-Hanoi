@@ -1,0 +1,10 @@
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\obj\Debug\河內塔.csproj.AssemblyReference.cache
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\obj\Debug\河內塔.Form1.resources
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\obj\Debug\河內塔.Properties.Resources.resources
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\obj\Debug\河內塔.csproj.GenerateResource.cache
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\obj\Debug\河內塔.csproj.CoreCompileInputs.cache
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\bin\Debug\河內塔.exe.config
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\bin\Debug\河內塔.exe
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\bin\Debug\河內塔.pdb
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\obj\Debug\河內塔.exe
+C:\Users\a1318\Desktop\研揚作業\河內塔\河內塔\obj\Debug\河內塔.pdb
